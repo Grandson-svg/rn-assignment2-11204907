@@ -7,11 +7,16 @@
 
 ## Description
 
-This application is a simple task manager that allows users to create, edit, and delete tasks. It also allows users to mark tasks as complete and view completed tasks.
-
-## Task
-
-The task for this application was to create a simple task manager that allows users to manage their tasks. The application should allow users to create, edit, and delete tasks, as well as mark tasks as complete and view completed tasks.
+Customize the App.js file:
+Change the background color of the View component.
+Modify the Text component to display the message "My name is YourName", where "YourName" should be replaced with your actual name.
+Increase the font size of the text to 24.
+Make the name "YourName" bold within the text.
+Take a screenshot of the application displaying the modified text.
+Create a README file in the project root directory containing:
+A brief description of the task.
+The screenshot of the application.
+Your student ID.
 
 ## Student ID
 
