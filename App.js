@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My name is Boateng Kwame Agyenim</Text>
+      <Text>My name is <Text style={{fontWeight:'bold'}}>Boateng Kwame Agyenim</Text> </Text>
       <StatusBar style="auto" />
     </View>
   );
