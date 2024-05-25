@@ -1,8 +1,18 @@
-> Why do I have a folder named ".expo" in my project?
-The ".expo" folder is created when an Expo project is started using "expo start" command.
-> What do the files contain?
-- "devices.json": contains information about devices that have recently opened this project. This is used to populate the "Development sessions" list in your development builds.
-- "settings.json": contains the server configuration that is used to serve the application manifest.
-> Should I commit the ".expo" folder?
-No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
-Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+# My Application
+
+![Screenshot of My Application](first.jpg)
+![Screenshot of My Application](second.jpg)
+![Screenshot of My Application](third.jpg)
+![Screenshot of My Application](final.jpg)
+
+## Description
+
+This application is a simple task manager that allows users to create, edit, and delete tasks. It also allows users to mark tasks as complete and view completed tasks.
+
+## Task
+
+The task for this application was to create a simple task manager that allows users to manage their tasks. The application should allow users to create, edit, and delete tasks, as well as mark tasks as complete and view completed tasks.
+
+## Student ID
+
+My student ID is 11204907
